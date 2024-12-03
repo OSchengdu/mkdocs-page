@@ -1,5 +1,5 @@
 site_name: OSchengdu 文档
-site_url: https://oschengdu.github.io/oschengdu-docs/
+site_url: https://OSchengdu.github.io/mkdocs-page/
 nav:
     - 首页: index.md
     - 关于我们: about.md
