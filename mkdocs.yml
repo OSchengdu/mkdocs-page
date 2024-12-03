@@ -1,13 +1,13 @@
-site_name: OSchengdu 文档
+site_name: OSchengdu docs
 site_url: https://OSchengdu.github.io/mkdocs-page/
 nav:
-    - 首页: index.md
-    - 关于我们: about.md
-    - 项目:
+    - main page: index.md
+    - about us: about.md
+    - project:
         - OSchengdu Website: project/website.md
         - Pure Nasm OS: project/pure_nasm_os.md
-    - 贡献指南: project/contributor.md
-    - 联系我们: project/contact.md
+    - contributor: project/contributor.md
+    - contact us: project/contact.md
 theme:
     name: material
     palette:
