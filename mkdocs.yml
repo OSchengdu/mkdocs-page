@@ -1,0 +1,41 @@
+site_name: OSchengdu 文档
+site_url: https://oschengdu.github.io/oschengdu-docs/
+nav:
+    - 首页: index.md
+    - 关于我们: about.md
+    - 项目:
+        - OSchengdu Website: project/website.md
+        - Pure Nasm OS: project/pure_nasm_os.md
+    - 贡献指南: project/contributor.md
+    - 联系我们: project/contact.md
+theme:
+    name: material
+    palette:
+        primary: black
+        accent: red
+    font:
+        text: Roboto
+        code: Roboto Mono
+    features:
+        - navigation.tabs
+        - navigation.sections
+        - navigation.instant
+        - search.highlight
+        - search.share
+        - content.code.annotate
+        - content.code.copy
+        - content.tooltips
+        - header.autohide
+        - footer.follow
+        - footer.meta
+        - footer.edit
+        - footer.license
+        - footer.copyright
+        - footer.social
+        - footer.navigation
+        - footer.top
+        - footer.bottom
+        - footer.divider
+        - footer.separator
+        - footer.spacer
+        - footer.divider
