@@ -1,6 +1,7 @@
 site_name: OSchengdu_page
 site_url: https://OSchengdu.github.io/mkdocs-page/
 nav:
+    - relate group: group.md
     - main page: index.md
     - about us: about.md
     - project:
