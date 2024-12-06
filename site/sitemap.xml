@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://OSchengdu.github.io/mkdocs-page/</loc>
-         <lastmod>2024-12-03</lastmod>
+         <lastmod>2024-12-06</lastmod>
     </url>
     <url>
          <loc>https://OSchengdu.github.io/mkdocs-page/about/</loc>
-         <lastmod>2024-12-03</lastmod>
+         <lastmod>2024-12-06</lastmod>
     </url>
     <url>
          <loc>https://OSchengdu.github.io/mkdocs-page/project/contact/</loc>
-         <lastmod>2024-12-03</lastmod>
+         <lastmod>2024-12-06</lastmod>
     </url>
     <url>
          <loc>https://OSchengdu.github.io/mkdocs-page/project/contributor/</loc>
-         <lastmod>2024-12-03</lastmod>
+         <lastmod>2024-12-06</lastmod>
+    </url>
+    <url>
+         <loc>https://OSchengdu.github.io/mkdocs-page/project/group/</loc>
+         <lastmod>2024-12-06</lastmod>
     </url>
     <url>
          <loc>https://OSchengdu.github.io/mkdocs-page/project/pure_nasm_os/</loc>
-         <lastmod>2024-12-03</lastmod>
+         <lastmod>2024-12-06</lastmod>
     </url>
     <url>
          <loc>https://OSchengdu.github.io/mkdocs-page/project/website/</loc>
-         <lastmod>2024-12-03</lastmod>
+         <lastmod>2024-12-06</lastmod>
     </url>
 </urlset>

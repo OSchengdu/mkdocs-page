@@ -1,14 +1,16 @@
 site_name: OSchengdu_page
 site_url: https://OSchengdu.github.io/mkdocs-page/
 nav:
-    - relate group: group.md
-    - main page: index.md
-    - about us: about.md
+    - main: 
+      - introduction: index.md
+      - related link: project/group.md
+      - contact us: project/contact.md
+      - about us: about.md
     - project:
         - OSchengdu Website: project/website.md
         - Pure Nasm OS: project/pure_nasm_os.md
     - contributor: project/contributor.md
-    - contact us: project/contact.md
+
 theme:
     name: material
     palette:
